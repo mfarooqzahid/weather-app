@@ -44,7 +44,6 @@ This application uses weatherapi.com to fetch real-time weather data including:
 ### Prerequisites
 
 - Flutter SDK 3.29.3 or higher
-- Dart SDK
 
 ### Installation
 
@@ -64,7 +63,7 @@ This application uses weatherapi.com to fetch real-time weather data including:
    flutter run
    ```
 
-## 📦 Dependencies
+## Dependencies
 
 The application uses the following key packages:
 
